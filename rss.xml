@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Working Title ]]></title>
         <description><![CDATA[Working Title ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/working-title/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 22:43:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 22:44:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/working-title/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Treehouse Chocolate's Four Drinking Chocolates]]></title>
+            <description><![CDATA[<article><h1>Treehouse Chocolate's Four Drinking Chocolates</h1><p>Winter may be officially over in the Northern Hemisphere, but that doesn't mean hot chocolate has to disappear from people's radar until temperatures cool again. For some of us, it makes for a viable alternative to coffee in the morning-with some serious sugar and cocoa kick.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/707cfeb12d925cddf6493a0f7a931b18979b2c86.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/food-drink/treehouse-chocolate-portland-drinking-chocolate</link>
+            <guid isPermaLink="false">7d4c054a-b23e-4de5-90f5-7534d54588c6</guid>
+            <pubDate>Thu, 18 Aug 2016 22:43:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rising dawn: Rolls-Royce debut handsome new soft-top.]]></title>
             <description><![CDATA[<article><h1>Rising dawn: Rolls-Royce debut handsome new soft-top.</h1><p>The Rolls-Royce Dawn made its debut in an underground car park, just a stone's throw from Wallpaper's HQ. Granted, it was the car park beneath Rogers Stirk Harbour + Partners' award-winning Neo Bankside development, and the other bays were full of Ferraris, Maseratis and other exotic metal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e9722ec934a561a202db1ac3eff4119777420ed.jpg"></article>]]></description>
