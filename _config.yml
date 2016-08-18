@@ -1,0 +1,14 @@
+name: 'Working Title '
+layout_spectrum: 0.10592436904491753
+typography_spectrum: 0.7804129221788189
+color:
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  brandStrength: 0.7224447316098945
+  lightness: 0.3417040267083853
+  saturation: 0.681449652294789
+  rhythmicContrast: 0.4258701861811328
